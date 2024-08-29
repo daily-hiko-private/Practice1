@@ -1,1 +1,2 @@
-﻿console.log('準備完了');
+window.alert("はじめてできてちょー嬉しい！！！");
+console.log('準備完了');
